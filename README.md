@@ -1,4 +1,4 @@
 # CODESWAP
-NETFLIX CLONE
+**NETFLIX CLONE**
 
-CLICK HERE TO VIEW LIVE LINK   https://krishnavamsi599.github.io/CODESWAP/
+https://krishnavamsi599.github.io/NETFLIX_WEBSITE_CLONE--CODESWAP-/
